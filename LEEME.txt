@@ -1,0 +1,1 @@
+Abrir index.html en navegador. Dashboard por preguntas de Loja, versión auto-contenida.
